@@ -1,0 +1,6 @@
+{
+  "name": "VoyageAI - Smart Travel Planner",
+  "description": "AI-powered travel companion for planning trips, tracking budgets, and exploring the world with real-time recommendations.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
